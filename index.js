@@ -7,6 +7,4 @@ if(random_number===predict){
 }
 if (predict > 10){
     alert("follow the instruction, your predict number shouldnt be greater than 10")
-} else{
-    alert("random_number")
 }
